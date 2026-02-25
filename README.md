@@ -30,12 +30,10 @@ A modern Android news application built using Kotlin and Jetpack Compose that fe
 
 ## 📂 Project Structure
 
-app/
-├── ui/ (screens and composables)
-├── data/ (models, repository, API)
-├── viewmodel/
-└── utils/
-
+- **ui/** — Contains screens and Jetpack Compose components  
+- **data/** — Includes models, repository, and API integration  
+- **viewmodel/** — Handles UI state and business logic  
+- **utils/** — Utility and helper functions  
 
 ---
 
