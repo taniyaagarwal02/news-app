@@ -37,6 +37,14 @@ app/
 └── utils/
 
 
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository
+
+git clone https://github.com/taniyaagarwal02/news-app.git
+
 2. Open project in Android Studio
 3. Sync Gradle
 4. Run on emulator or physical device
