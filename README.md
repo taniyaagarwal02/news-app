@@ -53,7 +53,7 @@ git clone https://github.com/taniyaagarwal02/news-app.git
 
 | Home Screen | Search Screen | Saved Screen | Article Screen |
 |------------|--------------|-------------|---------------|
-| ![](screenshots/home.png) | ![](screenshots/search.png) | ![](screenshots/saved.png) | ![](screenshots/articles.png) |
+| ![](screenshot/home.png) | ![](screenshot/search.png) | ![](screenshot/saved.png) | ![](screenshot/articles.png) |
 
 ---
 
