@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_50">#efebf7</color>
+    <!-- Soft blue/grey background similar to reference UI -->
+    <color name="home_background">#E7EFF9</color>
+    <!-- Accent blue for Latest News and selected items -->
+    <color name="accent_blue">#2196F3</color>
+    <color name="dot_active">#2196F3</color>
+    <color name="dot_inactive">#CCCCCC</color>
+    <color name="tab_inactive">#757575</color>
+
+</resources>

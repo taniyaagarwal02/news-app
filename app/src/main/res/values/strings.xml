@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daily News</string>
+    <string name="category_tabs_description">News categories</string>
+</resources>
