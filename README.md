@@ -51,7 +51,10 @@ git clone https://github.com/taniyaagarwal02/news-app.git
 
 ## 📸 Screenshots
 
-(Add screenshots here — recommended for recruiters)
+| Home Screen | Article Details | Loading State |
+|------------|----------------|--------------|
+| ![](screenshots/home.png) | ![](screenshots/search.png) | ![](screenshots/saved.png) |
+![](screenshots/articles.png) |
 
 ---
 
