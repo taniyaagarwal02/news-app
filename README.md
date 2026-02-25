@@ -54,8 +54,9 @@ git clone https://github.com/taniyaagarwal02/news-app.git
   <img src="screenshot/home.png" width="200"/>
   <img src="screenshot/search.png" width="200"/>
   <img src="screenshot/saved.png" width="200"/>
-  <img src="screenshot/articles.png" width="200"/>
+  <img src="screenshot/article.png" width="200"/>
 </p>
+
 ---
 ## 🎯 Learning Goals
 
