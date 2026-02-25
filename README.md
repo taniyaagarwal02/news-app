@@ -48,15 +48,15 @@ git clone https://github.com/taniyaagarwal02/news-app.git
 4. Run on emulator or physical device
 
 ---
-
 ## 📸 Screenshots
 
-| Home Screen | Search Screen | Saved Screen | Article Screen |
-|------------|--------------|-------------|---------------|
-| ![](screenshot/home.png) | ![](screenshot/search.png) | ![](screenshot/saved.png) | ![](screenshot/articles.png) |
-
+<p align="center">
+  <img src="screenshot/home.png" width="200"/>
+  <img src="screenshot/search.png" width="200"/>
+  <img src="screenshot/saved.png" width="200"/>
+  <img src="screenshot/articles.png" width="200"/>
+</p>
 ---
-
 ## 🎯 Learning Goals
 
 This project was built to practice:
